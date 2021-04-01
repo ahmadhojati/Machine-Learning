@@ -14,6 +14,5 @@ The folder contains some examples of different machine learning methods scripts.
 #### Random Forest and Logistic regression
 #### SMOTE and Nearest Neighbor
 #### SVM with different kernels
-\
 
 Note: to run the codes, datasets should be in the same folder as the scripts.
