@@ -3,7 +3,7 @@
 The folder contains some examples of different machine learning methods scripts.
 "Data" folder has the dataset required to run the codes and "Codes" folder contains scripts listed below:
 
-Ada Boost_DB-Scan_K-Means
+Ada Boost_DB-Scan_K-Means\
 Complete Linkage clustering
 Decision Tree
 Gaussian Mixture Model
